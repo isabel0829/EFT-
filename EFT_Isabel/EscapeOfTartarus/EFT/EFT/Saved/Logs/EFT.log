@@ -8834,3 +8834,6 @@ Script Stack (0 frames):
 [2019.05.08-02.23.40:501][181]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND COMPLETED **********
 [2019.05.08-02.23.40:501][181]UATHelper: Packaging (Windows (64-bit)): BUILD SUCCESSFUL
 [2019.05.08-02.23.40:501][181]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=0 (Success)
+[2019.05.08-02.33.21:424][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.05.08-02.33.22:068][458]LogSavePackage: Moving 'E:/Github/Desktop/EFT-/EFT_Isabel/EscapeOfTartarus/EFT/EFT/Saved/FinalLevel9217944F4B3B25E484511BA895670EB7.tmp' to 'E:/Github/Desktop/EFT-/EFT_Isabel/EscapeOfTartarus/EFT/EFT/Content/Maps/FinalLevel/FinalLevel.umap'
+[2019.05.08-02.33.23:334][594]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
